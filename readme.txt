@@ -1,5 +1,5 @@
 === Dashboard Login URL Customizer ===
-Contributors: your-name
+Contributors: Tanay
 Tags: login, security, admin, customization
 Requires at least: 5.5
 Tested up to: 6.5
@@ -43,3 +43,4 @@ Direct access is blocked with a 404, but the login still renders via your custom
 == Changelog ==
 = 1.0.0 =
 - Initial release: custom login slug, URL filtering, rewrite rules, settings page, uninstall cleanup.
+
